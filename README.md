@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <p img align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ibnurizqiaramadan&show_icons=true&theme=gotham" alt="xyrus10" />
 <p img align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnurizqiaramadan&layout=compact&theme=gotham" alt="xyrus10" /> 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ibnurizqiaramadan&theme=dark&locale=id)](https://git.io/streak-stats)
+
